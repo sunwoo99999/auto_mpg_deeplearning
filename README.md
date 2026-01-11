@@ -144,10 +144,6 @@ python mpg_prediction.py
 python mpg_prediction.py
 ```
 
-## Reference
-
-[Predictive Modeling of Auto MPG and Analysis of Engine Design Factors: Comparing the Impact of Weight and Displacement](https://zenodo.org/records/18203989?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjMyZWEzYzhiLTljMmYtNGZjMi1hNjRkLTIxYjQ4M2E4NzBmYSIsImRhdGEiOnt9LCJyYW5kb20iOiIzYjkwODc0OGY4N2Y3ZWFhYWExNGIxYzExZjc3NGJlNSJ9.waGFIea8cgpsJOriyG2i3lunsxJq8IHHMjn31PpENKQ2Fe9UTekma_b5Rgc8eJus3V3lqU624NapFfOh5FK81Q)
-
 ## License
 
 MIT License
@@ -156,3 +152,4 @@ MIT License
 
 Seonwoo Kang
 Date: 2026-01-11
+
